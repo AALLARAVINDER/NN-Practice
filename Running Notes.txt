@@ -89,7 +89,7 @@ Many tools and servers - cost effective???
 
 MCD 
 --------------------------------------------
-Microservices
+Microservices - to create a microserice Sprintboot is needed
  - Virtualization/Containerization
  - Java
  - Report
@@ -97,11 +97,19 @@ Microservices
  - Backup
  - High availability
  
+ Docker has repository - Dockerhub
+ 
  Containerization: with less memory and CPU utilization
  - light weight
  faster than virtualization, reason is: no hypervisor
  - Docker, Vagrant
- 	
+ - Docker deals with containers
+ - image is a concept(class) ---> container (like Object, where the application installed)
+  
+ VAGRANT - is advanced than Docker 
+ 
+ docker id/pwd - aallaravinder/Summer@2018
+
  
 
 
