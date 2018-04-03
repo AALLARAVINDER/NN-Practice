@@ -87,6 +87,23 @@ default executor of jenkins per node - 1
 Many tools and servers - cost effective???
 
 
+MCD 
+--------------------------------------------
+Microservices
+ - Virtualization/Containerization
+ - Java
+ - Report
+ _ Fault tolerant
+ - Backup
+ - High availability
+ 
+ Containerization: with less memory and CPU utilization
+ - light weight
+ faster than virtualization, reason is: no hypervisor
+ - Docker, Vagrant
+ 	
+ 
+
 
 
 
