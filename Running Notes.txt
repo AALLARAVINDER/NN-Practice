@@ -1,0 +1,99 @@
+C:\Program Files\Java\jre1.8.0_74\bin
+
+Jenkins:
+https://jenkins.io/download/
+
+Capgemini Nexus repository
+http://10.109.32.183:8081/nexus/content/groups/public/
+
+Maven: maven.apache.org/download.cgi
+
+Gradle: 
+
+Alternate for Maven is Gradle. Preferrable is Maven
+
+Maven - no need to install 
+Gradle - no need to install
+Jenkins - War file
+Docker - war/zip/exe
+Git - exe - installable
+github - web app - on cloud
+bitbucket - on cloud
+Junit - no need to install
+sonarqube - exe - to be installed / zip - no need to install
+
+Appdynamics - monitoring the application (microservices)
+
+validate the url,ssl certificate can use "sslshopper.com"
+
+POM.XMl - used for dependencies, can be used for project wise
+Settings.xml 
+Dependencies
+Repositories
+----------------------------------------------------------
+Settings.xml - proxy, repositories - highest priority to verify the settings
+Tags
+ proxy - 
+ profiles - control the environment wise program to run
+	  - set the environment variables
+
+-----------------------------------------------------------
+Swagger - swagger.io - tool for creating a documentation
+
+Nexus  - download = https://www.sonatype.com/oss-thank-you-win64.zip
+
+---------------------------------------------------------
+
+To upload the artifacts to nexus repository:
+1. select the repository
+2. go to aritifact upload
+3. download pom.xml and jar file from Maven repository
+4. select POM and artifact to upload
+
+localhost:8081/nexus
+Person | --> Git ----> GitHub -----> SonarQube ------>|Jenkins
+
+Jenkins alernate CloudbeesJenkins - for cloud deployment
+Spinnaker|IBM tools | Aws cloud Deploy
+
+----------------------------------------------
+Sonarqube
+localhost:9000 admin/admin
+
+sonarCube
+Add the below tag in maven pom.xml to push the data to local Sonarcube server.
+
+<sonar.host.url> http://localhost:9000/ </sonar.host.url>
+
+Default username:admin
+Password:admin
+SonarQube Integration for Eclipse (update-site) - http://downloads.sonarsource.com/eclipse/eclipse/
+
+run sonar:sonar goal
+
+Below is the link for Customer rules: https://docs.sonarqube.org/display/DEV/API+Basics
+
+https://docs.sonarqube.org/display/DEV/Adding+Coding+Rules+using+Java
+
+------------------------------------------
+Jenkins (preiviosuly known as hudson)
+ - build periodically 
+ - configure the 
+SSL certificates are mandatory for nodes
+
+default executor of jenkins - 2
+default executor of jenkins per node - 1
+
+Many tools and servers - cost effective???
+
+
+
+
+
+
+
+
+
+
+
+
