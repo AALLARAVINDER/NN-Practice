@@ -114,7 +114,12 @@ Microservices - to create a microserice Sprintboot is needed
  
  To find docker commands -  https://hub.docker.com/_/jenkins/
 
+To find solution for the Docker issues:
+https://github.com/vasu34k12/Docker/wiki/Docker-Imp
 
+To create a file format then use eclipse
+
+To stop the container, use the ContainerID only
 
 
 
