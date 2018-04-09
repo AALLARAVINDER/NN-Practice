@@ -122,6 +122,36 @@ To create a file format then use eclipse
 To stop the container, use the ContainerID only
 
 
+----------------------------------------------
+Python
+
+- Best IDE -> pycharm or PyDev
+
+Python-core-web-ETL-Secuirty-blockchain, machine learning
+
+Angularjs/EmberJS, ReactJS
+Web - DataJango(Django)
+	Strawberry
+	Flask
+ETL ---
+	Pandas
+	Petal
+DB: PythonDB, SqlAlchemy
+
+https://www.nginx.com/
+
+Monitoring/for log aggregation/Micro Services - Sentry
+
+Tshape
+------------------------------------------------------
+commands & usage
+pip --> to intall dependencies
+
+-------------------------------------
+alternate for Python, use Anacoda - machine learning tool
+miniconda --> 
+
+Pygogo - is for logging
 
 
 
