@@ -124,7 +124,9 @@ To stop the container, use the ContainerID only
 
 ----------------------------------------------
 Python
-
+- python is an interpretor, no need of compilation
+- python supports multithreading and multi process
+- Prallel processing
 - Best IDE -> pycharm or PyDev
 
 Python-core-web-ETL-Secuirty-blockchain, machine learning
@@ -147,11 +149,14 @@ Tshape
 commands & usage
 pip --> to intall dependencies
 
+All the packages stored in Python Installed folder \Lib\site-packages
 -------------------------------------
 alternate for Python, use Anacoda - machine learning tool
 miniconda --> 
 
 Pygogo - is for logging
+
+
 
 
 
