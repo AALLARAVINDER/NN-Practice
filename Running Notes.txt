@@ -156,6 +156,9 @@ miniconda -->
 
 Pygogo - is for logging
 
+bytecode supported by python - yes
+bytecode -- machine and architecture(0,1,)
+internationalization - i18n 
 
 
 
